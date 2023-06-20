@@ -45,7 +45,7 @@ int main() {
         }
     }
     else {
-        printf("Invalid operation entered.\n");
+        printf("Invalid operation entered. Please try again!\n");
     }
 
     return 0;
