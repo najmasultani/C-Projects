@@ -1,2 +1,7 @@
-# C-Projects
-Explore my C projects, demonstrating programming skills and understanding of the language. Browse a collection of projects covering diverse topics, from small-scale programs to larger systems. Expect clean, efficient code and regular updates. Join me in exploring the world of C programming!
+# C-Projects-General
+
+This repository contains a collection of C projects emphasizing data structures and algorithms. Featured projects include:
+
+- **Autocomplete**: Implements efficient text prediction using data structures.
+- **Seam Carving**: Resizes images while preserving important features through content-aware techniques.
+- Additional projects showcasing various C programming concepts and techniques.
