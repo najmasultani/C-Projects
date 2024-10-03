@@ -50,7 +50,7 @@ The goal is to quickly find and return the top matching terms based on a given q
 - **Output**: None (matches are stored in the provided pointer).
 
 ## Resources: 
-This project was originally developed as part of the **ESC190: Data Structures and Algorithms course** at the University of Toronto
+This project was originally developed as part of the **ESC190: Data Structures and Algorithms course** assignment at the University of Toronto
 
 ## How to Run
 
