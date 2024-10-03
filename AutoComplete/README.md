@@ -1,4 +1,4 @@
-# Autocomplete System
+# Auto Complete System
 
 This project implements a fast autocomplete functionality in C. The system retrieves the top terms matching a query string from a file containing terms and their associated weights.
 
