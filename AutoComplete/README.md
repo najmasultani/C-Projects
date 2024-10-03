@@ -49,6 +49,9 @@ The goal is to quickly find and return the top matching terms based on a given q
   - `substr`: Query substring.
 - **Output**: None (matches are stored in the provided pointer).
 
+## Resources: 
+This project was originally developed as part of the **ESC180 course** at the University of Toronto
+
 ## How to Run
 
 ### Clone the repository:
