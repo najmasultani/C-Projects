@@ -43,7 +43,7 @@ The goal of this project is to create a data type that can resize an image by re
   - `path`: Array defining the seam to be removed.
     
 ## Resources: 
-This project was originally developed as part of the **ESC190: Data Structures and Algorithms course** at the University of Toronto.
+This project was originally developed as part of the **ESC190: Data Structures and Algorithms course** assignment at the University of Toronto.
 
 ## How to Run
 
